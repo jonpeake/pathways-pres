@@ -1,0 +1,46 @@
+---
+title: "Pathways to effective training"
+subtitle: "Lessons learned from the 2024 Quarto Workshops"
+author: "Jonathan Peake"
+format: 
+    revealjs:
+        theme: "moon"
+---
+
+## Go slow, go back
+
+-   Make sure everyone can follow along
+
+-   Explain every step
+
+-   Repeat important tasks
+
+## Take a pause
+
+-   Wait until natural breaks to field questions
+
+-   Take dedicated pauses
+
+    -   Answer questions
+
+    -   Allow everyone to catch up
+
+## Make your browser screenshare-friendly
+
+::::: {.columns style="display: flex;   justify-content: center;   align-items: center;   height: 90%;"}
+::: {.column width="40%"}
+-   Turn off dark mode
+
+\newline
+
+-   Zoom in
+
+\newline
+
+-   Horizontal tabs
+:::
+
+::: {.column width="60%"}
+![](images/paste-3.png)
+:::
+:::::
